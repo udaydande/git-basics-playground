@@ -11,4 +11,7 @@ Learning Git step by step with real world problems.
 ## Notes:
 This section was added from the feature branch
 
+##Workflow
+All changes are made via feature branches and merged using Pull Requests.
+
 
