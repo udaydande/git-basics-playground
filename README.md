@@ -1,6 +1,6 @@
 # Git basics playground
 
-Learning git from scratch with hands-on practice.
+Learning Git step by step with practical examples
 
 ## What I'm learning
  
